@@ -1,0 +1,3 @@
+HTTP/1.1 404 Page Not Found
+Server: Stefan's server
+Content-type: " + "text/html
